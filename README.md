@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Jennifer Pires,
 
-- Desenvolvedora iOS.
-- Faço faculdade de Publicidade e Propaganda - MACKENZIE.
-- Estudando front-end em SwiftUi.
+- Desenvolvedora iOS. 💻
+- Faço faculdade de Publicidade e Propaganda - MACKENZIE. 📚
+- Estudando front-end em SwiftUi.📱
   ##
 <div> 
   <a href="https://www.instagram.com/jeypirees/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
